@@ -26,7 +26,7 @@
             </div>
         </div>
     </div>
-    <div class="col-md-6">
+    <!--div class="col-md-6">
         <div class="box">
             <div class="box-body">
                 <table class="table table-striped">
@@ -36,15 +36,15 @@
                         <th>Email</th>
                         <th>Poin</th>
                     </tr>
-                    <?php foreach($costumer as $c){ ?>
+                    <!?php foreach($costumer as $c){ ?>
                     <tr>
-                        <td><?php echo $c['nama']; ?></td>
-                        <td><?php echo $c['email']; ?></td>
-                        <td><?php echo $c['poin']; ?></td>
+                        <td><!?php echo $c['nama']; ?></td>
+                        <td><!?php echo $c['email']; ?></td>
+                        <td><!?php echo $c['poin']; ?></td>
                     </tr>
-                    <?php } ?>
+                    <!?php } ?>
                 </table>
             </div>
         </div>
-    </div>
+    </div-->
 </div>
